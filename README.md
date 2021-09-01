@@ -1,7 +1,7 @@
 # TUM IT Support
-TUM技术支持中心
+## TUM技术支持中心
 
-#Exchange Mail Setup
+<h1>Exchange Mail Setup</h1>
 <br>
 <img src="https://user-images.githubusercontent.com/33310255/131633134-acf8d05c-5274-4a2c-b846-511ad35062d8.jpg" width=200px/>
 <br>
