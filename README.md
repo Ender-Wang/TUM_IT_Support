@@ -1,6 +1,5 @@
 # TUM技术支持中心
 <img src="https://user-images.githubusercontent.com/33310255/131970197-b9c326f4-f881-44e2-9b56-5edb072c4b50.png" width=200px />
-<br>
 <b>微信扫码加入我们</b>
 <hr>
 <h2>Exchange Mail Setup</h1>
