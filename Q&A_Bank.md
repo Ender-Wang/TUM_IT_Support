@@ -8,6 +8,8 @@
 xmail.mwn.de <br>
 '域'填: ads <br>
 用户名填你的id <br>
+<h3>TUM Email Client Setup (Offical Handbook)</h3>
+https://wiki.in.tum.de/Informatik/Helpdesk/TumEmail#E_45Mail_Client_Setup
 <h2>2. 德国海关官方关于携带药品的要求</h2>
 <h3>2.1 Gesetz über den Verkehr mit Betäubungsmitteln (Betäubungsmittelgesetz - BtMG) <br>
 Anlage III (zu § 1 Abs. 1) <br>
