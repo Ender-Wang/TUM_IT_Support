@@ -1,9 +1,13 @@
 # TUM技术支持中心
 <table style="border:0">
-   <tr><td><img src="https://user-images.githubusercontent.com/33310255/131970197-b9c326f4-f881-44e2-9b56-5edb072c4b50.png" width=150px /></td>
-      <td><b>微信扫码加入微信群</b></td></tr>
-   <tr><td><img src="https://user-images.githubusercontent.com/33310255/132150400-9fb60742-4a04-42e7-864c-0cee5528c147.jpg" width=150px /></td>
-      <td><b>微信扫码关注公众号</b></td></tr>
+   <tr>
+      <td><img src="https://user-images.githubusercontent.com/33310255/131970197-b9c326f4-f881-44e2-9b56-5edb072c4b50.png" width=150px /></td>
+      <td><img src="https://user-images.githubusercontent.com/33310255/132150400-9fb60742-4a04-42e7-864c-0cee5528c147.jpg" width=150px /></td>
+   </tr>
+   <tr>
+      <td><b>微信扫码加入微信群</b></td>
+      <td><b>微信扫码关注公众号</b></td>
+   </tr>
 </table>
 
 <hr>
